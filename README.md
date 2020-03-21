@@ -3,8 +3,9 @@
 
 Import a CSV with a list of the URL's and the folder/file name (each entry on a new line).
 
-To add this to your chrome browser:
-1: go to chrome://extentions
-2: emable developer mode (top right)
-3: click "Load Unpacked" (top left)
-4: select the files from the repo.
+
+## To add this to your chrome browser:
+1. go to chrome://extentions
+2. emable developer mode (top right)
+3. click "Load Unpacked" (top left)
+4. select the files from the repo.
