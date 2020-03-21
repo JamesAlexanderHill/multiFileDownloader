@@ -2,6 +2,10 @@
  A chrome extention to download multiple files from a CSV file
 
 Import a CSV with a list of the URL's and the folder/file name (each entry on a new line).
+eg.
+url,filename
+url,filename
+url,filename
 
 
 ## To add this to your chrome browser:
