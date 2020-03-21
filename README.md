@@ -7,6 +7,12 @@ url,filename
 url,filename
 url,filename
 
+| Tables        | Are           |
+| ------------- |:-------------:|
+|url|filename|
+|url|filename|
+|url|filename|
+
 
 ## To add this to your chrome browser:
 1. go to chrome://extentions
